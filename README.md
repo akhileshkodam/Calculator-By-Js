@@ -3,7 +3,7 @@ A fully functional calculator web application built with HTML, CSS, and JavaScri
 # Technologies Used:
 # HTML
   : Structure and layout of the calculator.
-# CSS
+# CSS,Bootstrap
   : Styling for an attractive and responsive design.
 # JavaScript
   : Implementation of calculation logic and dynamic updates
